@@ -1,5 +1,3 @@
-Olá mundo!
-Teste111
-Teste222
-Teste333
-Teste444
+# Estudando e praticando o Git
+
+Neste repositório eu apenas pratiquei alguns comandos no terminal
